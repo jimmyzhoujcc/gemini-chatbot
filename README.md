@@ -6,6 +6,7 @@ Gemini ChatBot is a ChatBot tool that uses CLI interactive Gemini
  
 ## How to use it
 pip install -r requirements
+Change YOUR_API_KEY to your own api-key in credentials.ini
  
 ## Version
 - Initian version 1.0
