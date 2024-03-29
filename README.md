@@ -8,7 +8,7 @@ Gemini ChatBot is a ChatBot tool that uses CLI interactive Gemini
 pip install -r requirements
  
 ## Version
-- Initian version 1.0
+- Initialize version 1.0
  
 ## Author information
 - Author：Jimmy Zhou
