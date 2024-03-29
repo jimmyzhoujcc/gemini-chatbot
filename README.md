@@ -5,7 +5,10 @@ Your AI Chatbot With Google Gemini AI API Using Python
 Gemini ChatBot is a ChatBot tool that uses CLI interactive Gemini
  
 ## How to use it
-pip install -r requirements
+- pip install -r requirements
+- Use your Gemini API-KEY to replace API KEY in the credentials.ini file
+- python main.py
+
  
 ## Version
 - Initialize version 1.0
